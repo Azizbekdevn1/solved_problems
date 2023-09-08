@@ -1,0 +1,15 @@
+D:\Projects\C#.NET\Polimorfizm\bin\Debug\net7.0\Polimorfizm.exe
+D:\Projects\C#.NET\Polimorfizm\bin\Debug\net7.0\Polimorfizm.deps.json
+D:\Projects\C#.NET\Polimorfizm\bin\Debug\net7.0\Polimorfizm.runtimeconfig.json
+D:\Projects\C#.NET\Polimorfizm\bin\Debug\net7.0\Polimorfizm.dll
+D:\Projects\C#.NET\Polimorfizm\bin\Debug\net7.0\Polimorfizm.pdb
+D:\Projects\C#.NET\Polimorfizm\obj\Debug\net7.0\Polimorfizm.csproj.AssemblyReference.cache
+D:\Projects\C#.NET\Polimorfizm\obj\Debug\net7.0\Polimorfizm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#.NET\Polimorfizm\obj\Debug\net7.0\Polimorfizm.AssemblyInfoInputs.cache
+D:\Projects\C#.NET\Polimorfizm\obj\Debug\net7.0\Polimorfizm.AssemblyInfo.cs
+D:\Projects\C#.NET\Polimorfizm\obj\Debug\net7.0\Polimorfizm.csproj.CoreCompileInputs.cache
+D:\Projects\C#.NET\Polimorfizm\obj\Debug\net7.0\Polimorfizm.dll
+D:\Projects\C#.NET\Polimorfizm\obj\Debug\net7.0\refint\Polimorfizm.dll
+D:\Projects\C#.NET\Polimorfizm\obj\Debug\net7.0\Polimorfizm.pdb
+D:\Projects\C#.NET\Polimorfizm\obj\Debug\net7.0\Polimorfizm.genruntimeconfig.cache
+D:\Projects\C#.NET\Polimorfizm\obj\Debug\net7.0\ref\Polimorfizm.dll

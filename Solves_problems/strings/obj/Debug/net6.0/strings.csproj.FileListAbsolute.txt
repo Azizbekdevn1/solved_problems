@@ -1,0 +1,15 @@
+D:\Projects\C#.NET\Solves_problems\strings\bin\Debug\net6.0\strings.exe
+D:\Projects\C#.NET\Solves_problems\strings\bin\Debug\net6.0\strings.deps.json
+D:\Projects\C#.NET\Solves_problems\strings\bin\Debug\net6.0\strings.runtimeconfig.json
+D:\Projects\C#.NET\Solves_problems\strings\bin\Debug\net6.0\strings.dll
+D:\Projects\C#.NET\Solves_problems\strings\bin\Debug\net6.0\strings.pdb
+D:\Projects\C#.NET\Solves_problems\strings\obj\Debug\net6.0\strings.csproj.AssemblyReference.cache
+D:\Projects\C#.NET\Solves_problems\strings\obj\Debug\net6.0\strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#.NET\Solves_problems\strings\obj\Debug\net6.0\strings.AssemblyInfoInputs.cache
+D:\Projects\C#.NET\Solves_problems\strings\obj\Debug\net6.0\strings.AssemblyInfo.cs
+D:\Projects\C#.NET\Solves_problems\strings\obj\Debug\net6.0\strings.csproj.CoreCompileInputs.cache
+D:\Projects\C#.NET\Solves_problems\strings\obj\Debug\net6.0\strings.dll
+D:\Projects\C#.NET\Solves_problems\strings\obj\Debug\net6.0\refint\strings.dll
+D:\Projects\C#.NET\Solves_problems\strings\obj\Debug\net6.0\strings.pdb
+D:\Projects\C#.NET\Solves_problems\strings\obj\Debug\net6.0\strings.genruntimeconfig.cache
+D:\Projects\C#.NET\Solves_problems\strings\obj\Debug\net6.0\ref\strings.dll

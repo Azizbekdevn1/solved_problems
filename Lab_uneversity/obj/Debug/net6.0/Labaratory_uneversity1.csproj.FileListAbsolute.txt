@@ -1,0 +1,30 @@
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Labaratory_uneversity1\obj\Debug\net6.0\Labaratory_uneversity1.csproj.AssemblyReference.cache
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Labaratory_uneversity1\obj\Debug\net6.0\Labaratory_uneversity1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Labaratory_uneversity1\obj\Debug\net6.0\Labaratory_uneversity1.AssemblyInfoInputs.cache
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Labaratory_uneversity1\obj\Debug\net6.0\Labaratory_uneversity1.AssemblyInfo.cs
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Labaratory_uneversity1\obj\Debug\net6.0\Labaratory_uneversity1.csproj.CoreCompileInputs.cache
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Labaratory_uneversity1\bin\Debug\net6.0\Labaratory_uneversity1.exe
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Labaratory_uneversity1\bin\Debug\net6.0\Labaratory_uneversity1.deps.json
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Labaratory_uneversity1\bin\Debug\net6.0\Labaratory_uneversity1.runtimeconfig.json
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Labaratory_uneversity1\bin\Debug\net6.0\Labaratory_uneversity1.dll
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Labaratory_uneversity1\bin\Debug\net6.0\Labaratory_uneversity1.pdb
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Labaratory_uneversity1\obj\Debug\net6.0\Labaratory_uneversity1.dll
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Labaratory_uneversity1\obj\Debug\net6.0\refint\Labaratory_uneversity1.dll
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Labaratory_uneversity1\obj\Debug\net6.0\Labaratory_uneversity1.pdb
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Labaratory_uneversity1\obj\Debug\net6.0\Labaratory_uneversity1.genruntimeconfig.cache
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Labaratory_uneversity1\obj\Debug\net6.0\ref\Labaratory_uneversity1.dll
+D:\Projects\C#.NET\Lab_uneversity\bin\Debug\net6.0\Labaratory_uneversity1.exe
+D:\Projects\C#.NET\Lab_uneversity\bin\Debug\net6.0\Labaratory_uneversity1.deps.json
+D:\Projects\C#.NET\Lab_uneversity\bin\Debug\net6.0\Labaratory_uneversity1.runtimeconfig.json
+D:\Projects\C#.NET\Lab_uneversity\bin\Debug\net6.0\Labaratory_uneversity1.dll
+D:\Projects\C#.NET\Lab_uneversity\bin\Debug\net6.0\Labaratory_uneversity1.pdb
+D:\Projects\C#.NET\Lab_uneversity\obj\Debug\net6.0\Labaratory_uneversity1.csproj.AssemblyReference.cache
+D:\Projects\C#.NET\Lab_uneversity\obj\Debug\net6.0\Labaratory_uneversity1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#.NET\Lab_uneversity\obj\Debug\net6.0\Labaratory_uneversity1.AssemblyInfoInputs.cache
+D:\Projects\C#.NET\Lab_uneversity\obj\Debug\net6.0\Labaratory_uneversity1.AssemblyInfo.cs
+D:\Projects\C#.NET\Lab_uneversity\obj\Debug\net6.0\Labaratory_uneversity1.csproj.CoreCompileInputs.cache
+D:\Projects\C#.NET\Lab_uneversity\obj\Debug\net6.0\Labaratory_uneversity1.dll
+D:\Projects\C#.NET\Lab_uneversity\obj\Debug\net6.0\refint\Labaratory_uneversity1.dll
+D:\Projects\C#.NET\Lab_uneversity\obj\Debug\net6.0\Labaratory_uneversity1.pdb
+D:\Projects\C#.NET\Lab_uneversity\obj\Debug\net6.0\Labaratory_uneversity1.genruntimeconfig.cache
+D:\Projects\C#.NET\Lab_uneversity\obj\Debug\net6.0\ref\Labaratory_uneversity1.dll

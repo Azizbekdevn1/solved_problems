@@ -1,0 +1,15 @@
+D:\Projects\C#.NET\Encryption\bin\Debug\net7.0\Encryption.exe
+D:\Projects\C#.NET\Encryption\bin\Debug\net7.0\Encryption.deps.json
+D:\Projects\C#.NET\Encryption\bin\Debug\net7.0\Encryption.runtimeconfig.json
+D:\Projects\C#.NET\Encryption\bin\Debug\net7.0\Encryption.dll
+D:\Projects\C#.NET\Encryption\bin\Debug\net7.0\Encryption.pdb
+D:\Projects\C#.NET\Encryption\obj\Debug\net7.0\Encryption.csproj.AssemblyReference.cache
+D:\Projects\C#.NET\Encryption\obj\Debug\net7.0\Encryption.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#.NET\Encryption\obj\Debug\net7.0\Encryption.AssemblyInfoInputs.cache
+D:\Projects\C#.NET\Encryption\obj\Debug\net7.0\Encryption.AssemblyInfo.cs
+D:\Projects\C#.NET\Encryption\obj\Debug\net7.0\Encryption.csproj.CoreCompileInputs.cache
+D:\Projects\C#.NET\Encryption\obj\Debug\net7.0\Encryption.dll
+D:\Projects\C#.NET\Encryption\obj\Debug\net7.0\refint\Encryption.dll
+D:\Projects\C#.NET\Encryption\obj\Debug\net7.0\Encryption.pdb
+D:\Projects\C#.NET\Encryption\obj\Debug\net7.0\Encryption.genruntimeconfig.cache
+D:\Projects\C#.NET\Encryption\obj\Debug\net7.0\ref\Encryption.dll

@@ -1,0 +1,15 @@
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Masala yechimlari\Integer\bin\Debug\net6.0\Integer.exe
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Masala yechimlari\Integer\bin\Debug\net6.0\Integer.deps.json
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Masala yechimlari\Integer\bin\Debug\net6.0\Integer.runtimeconfig.json
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Masala yechimlari\Integer\bin\Debug\net6.0\Integer.dll
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Masala yechimlari\Integer\bin\Debug\net6.0\Integer.pdb
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Masala yechimlari\Integer\obj\Debug\net6.0\Integer.csproj.AssemblyReference.cache
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Masala yechimlari\Integer\obj\Debug\net6.0\Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Masala yechimlari\Integer\obj\Debug\net6.0\Integer.AssemblyInfoInputs.cache
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Masala yechimlari\Integer\obj\Debug\net6.0\Integer.AssemblyInfo.cs
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Masala yechimlari\Integer\obj\Debug\net6.0\Integer.csproj.CoreCompileInputs.cache
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Masala yechimlari\Integer\obj\Debug\net6.0\Integer.dll
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Masala yechimlari\Integer\obj\Debug\net6.0\refint\Integer.dll
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Masala yechimlari\Integer\obj\Debug\net6.0\Integer.pdb
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Masala yechimlari\Integer\obj\Debug\net6.0\Integer.genruntimeconfig.cache
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\Masala yechimlari\Integer\obj\Debug\net6.0\ref\Integer.dll

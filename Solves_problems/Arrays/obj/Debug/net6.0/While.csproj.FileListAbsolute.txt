@@ -1,0 +1,30 @@
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\While\bin\Debug\net6.0\While.exe
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\While\bin\Debug\net6.0\While.deps.json
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\While\bin\Debug\net6.0\While.runtimeconfig.json
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\While\bin\Debug\net6.0\While.dll
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\While\bin\Debug\net6.0\While.pdb
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\While\obj\Debug\net6.0\While.csproj.AssemblyReference.cache
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\While\obj\Debug\net6.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\While\obj\Debug\net6.0\While.AssemblyInfoInputs.cache
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\While\obj\Debug\net6.0\While.AssemblyInfo.cs
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\While\obj\Debug\net6.0\While.csproj.CoreCompileInputs.cache
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\While\obj\Debug\net6.0\While.dll
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\While\obj\Debug\net6.0\refint\While.dll
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\While\obj\Debug\net6.0\While.pdb
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\While\obj\Debug\net6.0\While.genruntimeconfig.cache
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\While\obj\Debug\net6.0\ref\While.dll
+D:\Projects\C#.NET\Solves_problems\Arrays\bin\Debug\net6.0\While.exe
+D:\Projects\C#.NET\Solves_problems\Arrays\bin\Debug\net6.0\While.deps.json
+D:\Projects\C#.NET\Solves_problems\Arrays\bin\Debug\net6.0\While.runtimeconfig.json
+D:\Projects\C#.NET\Solves_problems\Arrays\bin\Debug\net6.0\While.dll
+D:\Projects\C#.NET\Solves_problems\Arrays\bin\Debug\net6.0\While.pdb
+D:\Projects\C#.NET\Solves_problems\Arrays\obj\Debug\net6.0\While.csproj.AssemblyReference.cache
+D:\Projects\C#.NET\Solves_problems\Arrays\obj\Debug\net6.0\While.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#.NET\Solves_problems\Arrays\obj\Debug\net6.0\While.AssemblyInfoInputs.cache
+D:\Projects\C#.NET\Solves_problems\Arrays\obj\Debug\net6.0\While.AssemblyInfo.cs
+D:\Projects\C#.NET\Solves_problems\Arrays\obj\Debug\net6.0\While.csproj.CoreCompileInputs.cache
+D:\Projects\C#.NET\Solves_problems\Arrays\obj\Debug\net6.0\While.dll
+D:\Projects\C#.NET\Solves_problems\Arrays\obj\Debug\net6.0\refint\While.dll
+D:\Projects\C#.NET\Solves_problems\Arrays\obj\Debug\net6.0\While.pdb
+D:\Projects\C#.NET\Solves_problems\Arrays\obj\Debug\net6.0\While.genruntimeconfig.cache
+D:\Projects\C#.NET\Solves_problems\Arrays\obj\Debug\net6.0\ref\While.dll

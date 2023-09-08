@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Work_with_files/1.0.0": {
+        "runtime": {
+          "Work_with_files.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Work_with_files/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

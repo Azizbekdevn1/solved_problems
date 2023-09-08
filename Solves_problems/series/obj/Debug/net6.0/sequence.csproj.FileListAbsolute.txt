@@ -1,0 +1,30 @@
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\sequence\bin\Debug\net6.0\sequence.exe
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\sequence\bin\Debug\net6.0\sequence.deps.json
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\sequence\bin\Debug\net6.0\sequence.runtimeconfig.json
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\sequence\bin\Debug\net6.0\sequence.dll
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\sequence\bin\Debug\net6.0\sequence.pdb
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\sequence\obj\Debug\net6.0\sequence.csproj.AssemblyReference.cache
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\sequence\obj\Debug\net6.0\sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\sequence\obj\Debug\net6.0\sequence.AssemblyInfoInputs.cache
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\sequence\obj\Debug\net6.0\sequence.AssemblyInfo.cs
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\sequence\obj\Debug\net6.0\sequence.csproj.CoreCompileInputs.cache
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\sequence\obj\Debug\net6.0\sequence.dll
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\sequence\obj\Debug\net6.0\refint\sequence.dll
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\sequence\obj\Debug\net6.0\sequence.pdb
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\sequence\obj\Debug\net6.0\sequence.genruntimeconfig.cache
+C:\Users\Umaro\source\repos\loyiha\C# da ishlangan masalalar\sequence\obj\Debug\net6.0\ref\sequence.dll
+D:\Projects\C#.NET\Solves_problems\series\bin\Debug\net6.0\sequence.exe
+D:\Projects\C#.NET\Solves_problems\series\bin\Debug\net6.0\sequence.deps.json
+D:\Projects\C#.NET\Solves_problems\series\bin\Debug\net6.0\sequence.runtimeconfig.json
+D:\Projects\C#.NET\Solves_problems\series\bin\Debug\net6.0\sequence.dll
+D:\Projects\C#.NET\Solves_problems\series\bin\Debug\net6.0\sequence.pdb
+D:\Projects\C#.NET\Solves_problems\series\obj\Debug\net6.0\sequence.csproj.AssemblyReference.cache
+D:\Projects\C#.NET\Solves_problems\series\obj\Debug\net6.0\sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#.NET\Solves_problems\series\obj\Debug\net6.0\sequence.AssemblyInfoInputs.cache
+D:\Projects\C#.NET\Solves_problems\series\obj\Debug\net6.0\sequence.AssemblyInfo.cs
+D:\Projects\C#.NET\Solves_problems\series\obj\Debug\net6.0\sequence.csproj.CoreCompileInputs.cache
+D:\Projects\C#.NET\Solves_problems\series\obj\Debug\net6.0\sequence.dll
+D:\Projects\C#.NET\Solves_problems\series\obj\Debug\net6.0\refint\sequence.dll
+D:\Projects\C#.NET\Solves_problems\series\obj\Debug\net6.0\sequence.pdb
+D:\Projects\C#.NET\Solves_problems\series\obj\Debug\net6.0\sequence.genruntimeconfig.cache
+D:\Projects\C#.NET\Solves_problems\series\obj\Debug\net6.0\ref\sequence.dll

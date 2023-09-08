@@ -1,0 +1,15 @@
+D:\Projects\C#.NET\son_top\game\son_top\obj\Debug\net6.0\son_top.csproj.AssemblyReference.cache
+D:\Projects\C#.NET\son_top\game\son_top\obj\Debug\net6.0\son_top.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#.NET\son_top\game\son_top\obj\Debug\net6.0\son_top.AssemblyInfoInputs.cache
+D:\Projects\C#.NET\son_top\game\son_top\obj\Debug\net6.0\son_top.AssemblyInfo.cs
+D:\Projects\C#.NET\son_top\game\son_top\obj\Debug\net6.0\son_top.csproj.CoreCompileInputs.cache
+D:\Projects\C#.NET\son_top\game\son_top\bin\Debug\net6.0\son_top.exe
+D:\Projects\C#.NET\son_top\game\son_top\bin\Debug\net6.0\son_top.deps.json
+D:\Projects\C#.NET\son_top\game\son_top\bin\Debug\net6.0\son_top.runtimeconfig.json
+D:\Projects\C#.NET\son_top\game\son_top\bin\Debug\net6.0\son_top.dll
+D:\Projects\C#.NET\son_top\game\son_top\bin\Debug\net6.0\son_top.pdb
+D:\Projects\C#.NET\son_top\game\son_top\obj\Debug\net6.0\son_top.dll
+D:\Projects\C#.NET\son_top\game\son_top\obj\Debug\net6.0\refint\son_top.dll
+D:\Projects\C#.NET\son_top\game\son_top\obj\Debug\net6.0\son_top.pdb
+D:\Projects\C#.NET\son_top\game\son_top\obj\Debug\net6.0\son_top.genruntimeconfig.cache
+D:\Projects\C#.NET\son_top\game\son_top\obj\Debug\net6.0\ref\son_top.dll
